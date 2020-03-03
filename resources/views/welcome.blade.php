@@ -26,7 +26,7 @@
           <div class="card">
             <img src="assets/img/1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Встреча</h5>
+              <h5 class="card-title">1Встреча</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <a href="#" class="btn btn-custom">Go somewhere</a>
             </div>
@@ -34,7 +34,7 @@
           <div class="card">
             <img src="assets/img/10.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Приезд</h5>
+              <h5 class="card-title">2Приезд</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <a href="#" class="btn btn-custom">Go somewhere</a>
             </div>
@@ -42,7 +42,7 @@
           <div class="card">
             <img src="assets/img/11.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Старый друг</h5>
+              <h5 class="card-title">3Старый друг</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <a href="#" class="btn btn-custom">Go somewhere</a>
             </div>
@@ -50,7 +50,7 @@
           <div class="card">
             <img src="assets/img/9.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Служение сестер</h5>
+              <h5 class="card-title">4Служение сестер</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <a href="#" class="btn btn-custom">Go somewhere</a>
             </div>

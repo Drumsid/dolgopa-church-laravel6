@@ -103,6 +103,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link {{ Request::path() === 'contacts' ? 'active' : ''}}" href="{{ route('contacts') }}">Расписание и контакты</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ Request::path() === 'test' ? 'active' : ''}}" href="{{ route('test') }}">test</a>
             </li> 
           </ul>
         </div>

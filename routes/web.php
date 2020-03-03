@@ -26,3 +26,9 @@ Route::get('/aboutPastor', function () {
 Route::get('/contacts', function () {
     return view('contacts');
 })->name('contacts');
+
+Route::get('/test', function () {
+    $topArticles = App\Article::take(2)->latest()->get();
+    $sideArticles = App\Article::skip(2)->take(3)->latest()->get();
+    return view('test', compact('topArticles', 'sideArticles'));
+})->name('test');
